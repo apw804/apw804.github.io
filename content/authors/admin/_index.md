@@ -116,7 +116,7 @@ skills:
 highlight_name: true
 ---
 
-I am an EngD student at the [Centre for Doctoral Training in Data-Centric Engineering](https://www.qmul.ac.uk/dce/) at Queen Mary University of London.  I am a member of the [Networks Research Group](https://networks.eecs.qmul.ac.uk/). My research interests include 5G radio access networks, energy consumption and machine learning. My academic supervisors are [Prof. Richard G. Clegg](https://www.richardclegg.org/home) and [Dr. Mona Jaber](http://eecs.qmul.ac.uk/people/profiles/jabermona.html). My industry supervisor is [Keith Briggs](https://keithbriggs.info/).
+I am an EngD student at the Centre for Doctoral Training in Data-Centric Engineering at Queen Mary University of London.  I am a member of the Networks Research Group . My research interests include 5G radio access networks, energy consumption and machine learning. My academic supervisors are Prof. Richard G. Clegg and Dr. Mona Jaber. My industry supervisor is Keith Briggs.
 
 
 {style="text-align: justify;"}
